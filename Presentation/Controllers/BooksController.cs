@@ -17,7 +17,7 @@ namespace Presentation.Controllers
 
         public BooksController(IServiceManager manager)
         {
-            _manager = manager;
+            _manager = manager; 
         }
 
         [HttpGet]
@@ -42,6 +42,7 @@ namespace Presentation.Controllers
         {
             try
             {
+                throw new Exception("!!!!!");
                 var book = _manager
                     .BookService
                     .GetOneBookById(id, false);
