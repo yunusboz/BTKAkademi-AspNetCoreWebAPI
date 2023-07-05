@@ -1,0 +1,10 @@
+2023-07-04 16:57:01.7038 Info Message Template Auto Format enabled
+2023-07-04 16:57:01.7888 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 16:57:01.8178 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-04 17:10:26.2788 Info Configuration file change detected! Reloading in 1000ms...
+2023-07-04 17:10:27.2872 Info Reloading configuration...
+2023-07-04 17:10:27.2872 Info Loading NLog config from XML file: C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-04 17:10:27.2993 Info Message Template Auto Format enabled
+2023-07-04 17:10:27.2993 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-04 17:10:27.2993 Info Closing old configuration.
+2023-07-04 17:10:27.3394 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
