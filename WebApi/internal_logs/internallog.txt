@@ -24,3 +24,42 @@
 2023-07-11 15:06:29.1525 Info Message Template Auto Format enabled
 2023-07-11 15:06:29.2280 Info Registered target NLog.Targets.FileTarget(Name=logfile)
 2023-07-11 15:06:29.2546 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-11 19:25:22.5064 Info Message Template Auto Format enabled
+2023-07-11 19:25:22.6243 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-11 19:25:22.6587 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-11 19:25:29.3901 Info AppDomain Shutting down. LogFactory closing...
+2023-07-11 19:25:29.4095 Info LogFactory has been closed.
+2023-07-11 19:29:50.3861 Info Message Template Auto Format enabled
+2023-07-11 19:29:50.4649 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-11 19:29:50.4894 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-11 19:35:01.5221 Info AppDomain Shutting down. LogFactory closing...
+2023-07-11 19:35:01.5349 Info LogFactory has been closed.
+2023-07-11 19:38:54.2754 Info Message Template Auto Format enabled
+2023-07-11 19:38:54.3518 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-11 19:38:54.3771 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-11 19:47:51.4704 Info AppDomain Shutting down. LogFactory closing...
+2023-07-11 19:47:51.4876 Info LogFactory has been closed.
+2023-07-11 19:48:03.7879 Info Message Template Auto Format enabled
+2023-07-11 19:48:03.8691 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-11 19:48:03.8951 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-11 19:49:38.5438 Info AppDomain Shutting down. LogFactory closing...
+2023-07-11 19:49:38.5560 Info LogFactory has been closed.
+2023-07-11 19:49:53.8000 Info Message Template Auto Format enabled
+2023-07-11 19:49:53.8793 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-11 19:49:53.9040 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-11 19:51:10.0546 Info AppDomain Shutting down. LogFactory closing...
+2023-07-11 19:51:10.0546 Info LogFactory has been closed.
+2023-07-11 19:51:45.4058 Info Message Template Auto Format enabled
+2023-07-11 19:51:45.6164 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-11 19:51:45.6527 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-11 19:56:58.0977 Info Message Template Auto Format enabled
+2023-07-11 19:56:58.1740 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-11 19:56:58.1981 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-11 19:59:52.9547 Info AppDomain Shutting down. LogFactory closing...
+2023-07-11 19:59:52.9677 Info LogFactory has been closed.
+2023-07-11 20:00:05.6438 Info Message Template Auto Format enabled
+2023-07-11 20:00:05.7275 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-11 20:00:05.7592 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-11 20:51:48.3705 Info Message Template Auto Format enabled
+2023-07-11 20:51:48.4479 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-11 20:51:48.4734 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
