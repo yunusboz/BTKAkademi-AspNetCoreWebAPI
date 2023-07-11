@@ -10,7 +10,17 @@ var builder = WebApplication.CreateBuilder(args);
 
 LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 
-builder.Services.AddControllers().AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
+builder.Services.AddControllers(config =>
+{
+    // Configuration for Content Negotiation
+    config.RespectBrowserAcceptHeader = true;
+    config.ReturnHttpNotAcceptable = true;
+})
+    .AddCustomCsvFormatter()
+    .AddXmlDataContractSerializerFormatters() // Supporting XML format
+    .AddApplicationPart(typeof(Presentation.AssemblyReference).Assembly);
+
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
