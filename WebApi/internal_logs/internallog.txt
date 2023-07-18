@@ -106,3 +106,15 @@
 2023-07-18 19:25:12.5023 Info Message Template Auto Format enabled
 2023-07-18 19:25:12.6144 Info Registered target NLog.Targets.FileTarget(Name=logfile)
 2023-07-18 19:25:12.6447 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-18 20:36:16.8877 Info Message Template Auto Format enabled
+2023-07-18 20:36:17.0089 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-18 20:36:17.0492 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-18 20:39:25.1547 Info Message Template Auto Format enabled
+2023-07-18 20:39:25.3414 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-18 20:39:25.3777 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-18 20:43:02.4587 Info Message Template Auto Format enabled
+2023-07-18 20:43:02.5829 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-18 20:43:02.6260 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
+2023-07-18 20:56:16.2383 Info Message Template Auto Format enabled
+2023-07-18 20:56:16.3864 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-07-18 20:56:16.4255 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\development\courses\btk_akademi\bsStoreApp\WebApi\nlog.config
