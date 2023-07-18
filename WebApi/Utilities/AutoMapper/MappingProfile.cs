@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Entities.DataTransferObjects;
 using Entities.Models;
+using Entities.RequestFeatures;
 
 namespace WebApi.Utilities.AutoMapper
 {
@@ -11,6 +12,7 @@ namespace WebApi.Utilities.AutoMapper
             CreateMap<BookDtoForUpdate, Book>().ReverseMap();
             CreateMap<Book, BookDto>();
             CreateMap<BookDtoForInsertion, Book>();
+            CreateMap<IEnumerable<BookDto>, PagedList<Book>>();
         }
     }
 }
